@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zqw/CLionProjects/myping/checksum.h
+
+/home/zqw/CLionProjects/myping/cmake-build-debug/checksum.c
+
+/home/zqw/CLionProjects/myping/main.c
+stdio.h
+-
+netinet/in.h
+-
+netinet/ip.h
+-
+netinet/ip_icmp.h
+-
+unistd.h
+-
+signal.h
+-
+arpa/inet.h
+-
+errno.h
+-
+sys/time.h
+-
+string.h
+-
+netdb.h
+-
+pthread.h
+-
+checksum.h
+/home/zqw/CLionProjects/myping/checksum.h
+

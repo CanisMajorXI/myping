@@ -1,0 +1,5 @@
+/usr/share/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zqw/CLionProjects/myping
+-- Configuring done
+Warning: Source file "/home/zqw/CLionProjects/myping/checksum.c" is listed multiple times for target "myping".
+-- Generating done
+-- Build files have been written to: /home/zqw/CLionProjects/myping/cmake-build-debug
